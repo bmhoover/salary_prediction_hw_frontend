@@ -11,7 +11,7 @@ app.config["SECRET_KEY"] = "seasdad(*2sffcra01^23sdet"
 CORS(app)
 
 # Get this URL from the Azure Overview page of your API web app
-api_url = "salary-prediction-frontend-h6egctfkbpeqgde4.centralus-01.azurewebsites.net"  # base url for API endpoints
+api_url = "https://salary-prediction-api-beejhme8gce4euc2.centralus-01.azurewebsites.net"
 
 
 # main index page route
